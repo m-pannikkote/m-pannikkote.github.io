@@ -10,7 +10,7 @@ redirect_from:
 <!-- ![Alt Text](centaurus.png) -->
 
 <figure>
-  <img src="centaurus.png" alt="Multiwavelength image of Centaurus A" width="400">
+  <img src="m-pannikkote/m-pannikkote.github.io/images/centaurus.png" alt="Multiwavelength image of Centaurus A" width="400">
   <figcaption><em>Multiwavelength image of Centaurus A with Hubble, Spitzer, Chandra telescopes and VLA</em></figcaption>
 </figure>
 
