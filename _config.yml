@@ -22,14 +22,14 @@ repository               : "meg2683/meghanapannikkote.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_teatro.png"
   name             : "Meghana Pannikkote"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "In training to decode the universe"
-  location         : "Earth"
+  location         : 
   employer         : "University of Rome Tor Vergata"
   uri              : # URL
-  email            : "meghanapannikkote@gmail.com" 
+  email            :  
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/0009-0004-8724-9163.html"
