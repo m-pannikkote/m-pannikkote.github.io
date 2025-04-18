@@ -11,7 +11,7 @@ redirect_from:
 {: .align-right width="300px"} -->
 
 <figure>
-  <img src="/images/centaurus.png" alt="Multiwavelength image of Centaurus A" width="400" align="right" style="margin-left: 15px; border-radius: 8px;">
+  <img src="/images/centaurus.png" alt="Multiwavelength image of Centaurus A" style="float: right; width: 200px; margin-left: 15px; border-radius: 8px;">
   <figcaption><em>Multiwavelength image of Centaurus A with Hubble, Spitzer, Chandra telescopes and VLA</em></figcaption>
 </figure>
 
