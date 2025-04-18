@@ -13,7 +13,7 @@ title                    : "Meghana's Homepage"
 title_separator          : "-"
 name                     : &name "Meghana Pannikkote"
 description              : &description ""
-url                      : https://meg2683.github.io/meghanapannikkote.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://meghanapannikkote.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meg2683/meghanapannikkote.github.io"
 
@@ -22,7 +22,7 @@ repository               : "meg2683/meghanapannikkote.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_teatro.png"
+  avatar           : "profile_teatro.jpg"
   name             : "Meghana Pannikkote"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "In training to decode the universe"
