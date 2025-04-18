@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ![Alt Text](centaurus.png) -->
+![Multiwavelength image of Centaurus A](centaurus.png)
 
-<figure>
+<!-- <figure>
   <img src="m-pannikkote/m-pannikkote.github.io/images/centaurus.png" alt="Multiwavelength image of Centaurus A" width="400">
   <figcaption><em>Multiwavelength image of Centaurus A with Hubble, Spitzer, Chandra telescopes and VLA</em></figcaption>
-</figure>
+</figure> -->
 
 
 🎓 I'm a final year master's student in Astrophysics and Space Science through the Erasmus Mundus Joint Masters program ([EMJM-MASS](https://www.master-mass.eu/)).
