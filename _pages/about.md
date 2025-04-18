@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-![Multiwavelength image of Centaurus A](centaurus.png)
+![Multiwavelength image of Centaurus A](/images/centaurus.png) 
+<!-- {: .align-right width="300px"} -->
 
 <!-- <figure>
   <img src="m-pannikkote/m-pannikkote.github.io/images/centaurus.png" alt="Multiwavelength image of Centaurus A" width="400">
