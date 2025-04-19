@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![Multiwavelength image of Centaurus A](/images/centaurus.png){: .align-right width="400px"}
-
 <!-- <figure>
   <img src="/images/centaurus.png" alt="Multiwavelength image of Centaurus A" style="float: right; width: 400px; margin-left: 15px; border-radius: 8px;">
   <figcaption><em>Multiwavelength image of Centaurus A with Hubble, Spitzer, Chandra telescopes and VLA</em></figcaption>
@@ -24,3 +22,5 @@ redirect_from:
 💫 So far, I've worked on identifying [gamma-ray-emitting FR0 radio galaxies](https://iopscience.iop.org/article/10.3847/1538-4357/ad00b5) at [IUCAA](https://www.iucaa.in/en/) and investigating the radio variability of z > 5 quasars at the [Max Planck Institute for Astronomy (MPIA)](https://www.mpia.de/en), both using data from the [Very Large Array Sky Survey (VLASS)](https://public.nrao.edu/vlass/).
 
 <!-- 🕵🏻‍♀️ Outside research, you can find me enjoying a good who-dun-it mystery... -->
+
+![Multiwavelength image of Centaurus A](/images/centaurus.png)<!-- {: .align-right width="400px"} -->

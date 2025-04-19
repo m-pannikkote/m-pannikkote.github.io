@@ -6,4 +6,4 @@ collection: portfolio
 
 
 
-To know more: 
+Further reading:
